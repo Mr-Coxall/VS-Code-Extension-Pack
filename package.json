@@ -1,20 +1,20 @@
 {
-  "name": "python-extension-pack",
-  "displayName": "Python Extension Pack",
-  "description": "Popular Visual Studio Code extensions for Python",
-  "version": "1.7.0",
-  "publisher": "donjayamanne",
+  "name": "mr-coxall-extension-pack",
+  "displayName": "Mr Coxall's Extension Pack",
+  "description": "This extension pack packages has all the extensions you will need for ICS courses at MT.",
+  "version": "1.0.0",
+  "publisher": "mr-coxall",
   "author": {
-    "name": "Don Jayamanne",
-    "email": "don.jayamanne@yahoo.com"
+    "name": "Mr Coxall",
+    "email": "mr.coxall@mths.ca"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DonJayamanne/python-extension-pack"
+    "url": "https://github.com/Mr-Coxall/VS-Code-Extension-Pack"
   },
   "bugs": {
-    "url": "https://github.com/DonJayamanne/python-extension-pack/issues"
+    "url": "https://github.com/Mr-Coxall/VS-Code-Extension-Pack/issues"
   },
   "icon": "icon.png",
   "galleryBanner": {
@@ -25,11 +25,8 @@
     "vscode": "^1.62.0"
   },
   "keywords": [
-    "python",
-    "django",
-    "debugger",
-    "unittest",
-    "jinja"
+    "Mr Coxall",
+    "MT"
   ],
   "categories": [
     "Extension Packs"
@@ -40,7 +37,7 @@
     "wholroyd.jinja",
     "batisteo.vscode-django",
     "VisualStudioExptTeam.vscodeintellicode",
-	"KevinRose.vsc-python-indent",
-	"donjayamanne.python-environment-manager"
+	  "KevinRose.vsc-python-indent",
+	  "donjayamanne.python-environment-manager"
   ]
 }
